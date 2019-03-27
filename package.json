@@ -1,0 +1,18 @@
+{
+  "name": "me",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Jairo Caro-Accino Viciana",
+  "license": "MIT",
+  "dependencies": {
+    "parcel": "^1.12.3",
+    "react": "^16.8.5",
+    "react-dom": "^16.8.5",
+    "standard": "^12.0.1"
+  }
+}
