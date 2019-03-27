@@ -10,9 +10,13 @@
   "author": "Jairo Caro-Accino Viciana",
   "license": "MIT",
   "dependencies": {
+    "babel-eslint": "^10.0.1",
     "parcel": "^1.12.3",
     "react": "^16.8.5",
     "react-dom": "^16.8.5",
     "standard": "^12.0.1"
+  },
+  "standard": {
+    "parser": "babel-eslint"
   }
 }
