@@ -1,7 +1,6 @@
-import React from "react"
-import {render} from "react-dom"
+import React from 'react'
+import { render } from 'react-dom'
 
-import App from "./src/App"
+import App from './src/App'
 
-
-render(<App></App>, document.querySelector("#root"))
+render(<App />, document.querySelector('#root'))
